@@ -3,6 +3,7 @@ title: Starting at the beginning
 description: In order to know where we are going, we have to know where we've been.
 author: Mark Sheraton
 date: 2023-05-31T00:04:04.955Z
+classes: text-green-600
 tags:
   - from
 ---
